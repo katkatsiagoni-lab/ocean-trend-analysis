@@ -24,7 +24,7 @@ Python (NumPy, xarray, Matplotlib), NetCDF
 Analysis contributed to climate reporting work with the Norwegian Meteorological Institute and Instituto Nacional de Meteorologia (Mozambique).
 
 ### Sea Surface Temperature Trend
-![SST Trend](figures/sst_trend.png)
+![SST Trend](figures/sst.png)
 
 ### Sea Surface Height Trend
-![SSH Trend](figures/ssh_trend.png)
+![SSH Trend](figures/ssh.png)
