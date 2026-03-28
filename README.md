@@ -25,9 +25,9 @@ Pixel-wise trend analysis of sea surface temperature (SST) and sea surface heigh
 
 **Requirements:**
 - Python 3.x
-- xarray, numpy, matplotlib
+- xarray, numpy, matplotlib, cartopy, statsmodels, tqdm
 
-**Context**  
+### Context  
 This work contributed to climate reporting work with the Norwegian Meteorological Institute and Instituto Nacional de Meteorologia (Mozambique).
 
 ### Sea Surface Temperature Trend
