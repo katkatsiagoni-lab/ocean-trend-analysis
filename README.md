@@ -10,7 +10,7 @@ Pixel-wise trend analysis of sea surface temperature (SST) and sea surface heigh
 
 **Domain**  
 - Region: 10°–30°S, 30°–50°E  
-- Time range: 1993 – 2025  
+- Time range: 01/01/1993 – 31/12/2025  
 
 **Methods**  
 - Pixel-wise linear regression  
