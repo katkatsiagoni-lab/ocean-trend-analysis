@@ -1,6 +1,6 @@
 # Python-based analysis of long-term ocean trends using satellite data, developed for climate reporting applications.
 
-**Overview**   
+### Overview   
 Pixel-wise trend analysis of sea surface temperature (SST) and sea surface height (SSH) using HAC-corrected regression. The analysis focuses on long-term climate variability in the Southwest Indian Ocean.  
 
 **Data**  
