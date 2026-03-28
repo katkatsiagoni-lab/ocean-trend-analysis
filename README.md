@@ -17,8 +17,15 @@ Pixel-wise trend analysis of sea surface temperature (SST) and sea surface heigh
 - HAC (heteroskedasticity and autocorrelation consistent) correction  
 - Time-series analysis  
 
-**Tools**  
-Python (NumPy, xarray, Matplotlib), NetCDF
+### How to Run
+
+1. Download Copernicus datasets (links above)
+2. Open the notebook `ocean_trend_analysis.ipynb`
+3. Run all cells to reproduce analysis and figures
+
+**Requirements:**
+- Python 3.x
+- xarray, numpy, matplotlib
 
 **Context**  
 Analysis contributed to climate reporting work with the Norwegian Meteorological Institute and Instituto Nacional de Meteorologia (Mozambique).
